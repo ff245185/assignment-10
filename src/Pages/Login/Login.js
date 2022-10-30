@@ -57,7 +57,7 @@ const Login = () => {
 	return (
 		<div className="flex justify-center my-8">
 			<div className="bg-white rounded shadow-2xl p-7 sm:p-10">
-				{errors && <p className="text-red-500">{errors}</p>}
+				{errors && <p className="text-red-700">{errors}</p>}
 				<h3 className="mb-4 text-xl sm:pt-3 font-semibold sm:text-center sm:mb-6 sm:text-2xl">
 					Login
 				</h3>

@@ -185,7 +185,7 @@ const Blog = () => {
             The private route component is similar to the public route, the only
             change is that redirect URL and authenticate condition. If the user
             is not authenticated he will be redirected to the login page and the
-            user can only access the authenticated routes If he is authenticated
+            user can access the authenticated routes If he is authenticated
             (Logged in).
           </p>
           <div className="flex items-center">
@@ -205,8 +205,8 @@ const Blog = () => {
               >
                 Andrew Larkin
               </a>
-              <p className="text-sm font-medium leading-4 text-gray-600">
-                Author
+              <p className="text-sm font-medium leading-4 text-gray-700">
+                ceo
               </p>
             </div>
           </div>

@@ -36,7 +36,7 @@ const CheckOut = () => {
 							Name
 						</label>
 						<input
-							class="w-full px-5 py-1 text-gray-700 bg-gray-200 rounded"
+							class="w-full px-5 py-1 text-gray-600 bg-gray-200 rounded"
 							id="cus_name"
 							name="cus_name"
 							type="text"

@@ -115,7 +115,7 @@ const CheckOut = () => {
 							aria-label="Email"
 						/>
 					</div>
-					<p class="mt-4 text-gray-800 font-medium">Payment information</p>
+					<p class="mt-4 text-gray-800 font-medium">Payment informations</p>
 					<div class="">
 						<label class="block text-sm text-gray-600" for="cus_name">
 							Card
@@ -135,7 +135,7 @@ const CheckOut = () => {
 							title="Permanent"
 							class="px-4 py-1 text-white font-light tracking-wider bg-black rounded"
 							type="submit">
-							{priceAll} fixed amounts
+							{priceAll} fixed amounts all
 						</button>
 						<button
 							title="Per month"

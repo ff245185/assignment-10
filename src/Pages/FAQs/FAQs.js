@@ -63,7 +63,7 @@ const FAQs = () => {
 					<div className="space-y-4">
 						<Item title=" What is CORS used for?">
 							Cross-Origin Resource Sharing (CORS) is an HTTP-header based
-							mechanism that allows a server to indicate any origins (domain,
+							mechanism that server to indicate any origins (domain,
 							scheme, or port) other than its own from which a browser should
 							permit loading resources
 						</Item>

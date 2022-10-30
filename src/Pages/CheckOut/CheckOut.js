@@ -133,7 +133,7 @@ const CheckOut = () => {
 					<div class="mt-4 flex md:flex-row flex-col gap-3 justify-center">
 						<button
 							title="Permanent"
-							class="px-4 py-1 text-white font-light tracking-wider bg-gray-900 rounded"
+							class="px-4 py-1 text-white font-light tracking-wider bg-black rounded"
 							type="submit">
 							{priceAll} fixed amounts
 						</button>

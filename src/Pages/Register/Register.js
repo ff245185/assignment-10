@@ -79,7 +79,7 @@ const Register = () => {
 					</div>
 					<div className="mb-1 sm:mb-2">
 						<label htmlFor="photoUrl" className="inline-block mb-1 font-medium">
-							Photo URL
+							Photo link
 						</label>
 						<input
 							placeholder="photo url"

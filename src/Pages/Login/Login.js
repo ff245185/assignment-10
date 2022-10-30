@@ -64,7 +64,7 @@ const Login = () => {
 				<form onSubmit={loginUser}>
 					<div className="mb-1 sm:mb-2">
 						<label htmlFor="email" className="inline-block mb-1 font-medium">
-							E-mail
+							enter E-mail
 						</label>
 						<input
 							placeholder="john.doe@example.org"
@@ -77,7 +77,7 @@ const Login = () => {
 					</div>
 					<div className="mb-1 sm:mb-2">
 						<label htmlFor="password" className="inline-block mb-1 font-medium">
-							Password
+							 enter Password
 						</label>
 						<input
 							placeholder="type your password"
